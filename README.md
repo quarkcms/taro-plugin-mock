@@ -7,7 +7,7 @@
 在 Taro 项目根目录下安装
 
 ```bash
-$ npm i @tarojs/plugin-mock --save
+$ npm i @quarkcms/plugin-mock --save
 ```
 
 ## 使用
@@ -24,7 +24,7 @@ const config = {
   plugins: [
     ...其余插件
 
-    '@tarojs/plugin-mock'
+    '@quarkcms/plugin-mock'
   ]
   ...
 }

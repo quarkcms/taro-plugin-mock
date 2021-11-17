@@ -1,5 +1,5 @@
 {
-  "name": "@tarojs/plugin-mock",
+  "name": "@quarkcms/plugin-mock",
   "version": "0.0.8",
   "description": "Taro 数据 Mock 插件",
   "main": "index.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NervJS/taro-plugin-mock.git"
+    "url": "git+https://github.com/quarkcms/taro-plugin-mock.git"
   },
   "keywords": [
     "Taro"
@@ -27,9 +27,9 @@
   "author": "luckyadam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NervJS/tarojs-plugin-mock/issues"
+    "url": "https://github.com/quarkcms/tarojs-plugin-mock/issues"
   },
-  "homepage": "https://github.com/NervJS/tarojs-plugin-mock#readme",
+  "homepage": "https://github.com/quarkcms/tarojs-plugin-mock#readme",
   "devDependencies": {
     "@types/express": "^4.17.3",
     "@types/jest": "^25.1.4",

@@ -116,6 +116,9 @@ export function createMockMiddleware ({
     })
     if (matched) {
       const { result } = matched
+      if (typeof result === 'object') {
+        res.json(result);
+      }
       if (typeof result === 'string') {
         res.send(result);
       }
